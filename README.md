@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DoKkangs/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&show_icons=true&theme=shadow_green" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/DoKkangs/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact" />
 </a>
 

@@ -3,9 +3,6 @@
 <a href="https://github.com/DoKkangs/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&show_icons=true&theme=shadow_green" />
 </a>
-<a href="https://github.com/DoKkangs/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact" />
-</a>
 
 <!--
 **DoKkangs/DoKkangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoKkangs&count_bg=%23AEF5A9&title_bg=%232CD953&icon=waze.svg&icon_color=%23F7EF71&title=hits&edge_flat=false)](https://github.com/DoKkangs)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoKkangs&count_bg=%23AEF5A9&title_bg=%232CD953&icon=github.svg&icon_color=%23FFFFFE&title=hits&edge_flat=false)](https://github.com/DoKkangs)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoKkangs&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&theme=vue)
   

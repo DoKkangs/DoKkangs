@@ -3,6 +3,7 @@
 <div align="center">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoKkangs&count_bg=%23AEF5A9&title_bg=%232CD953&icon=github.svg&icon_color=%23FFFFFE&title=hits&edge_flat=false)](https://github.com/DoKkangs)
+  
   ![1416894895547419af43511](https://github.com/DoKkangs/DoKkangs/assets/88784852/2b8a8396-3b16-42ab-abba-982c9b77f62c)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoKkangs&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&theme=vue)

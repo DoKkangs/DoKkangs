@@ -5,7 +5,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/DoKkangs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=vue&hide=${가리고 싶은 언어}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=vue&hide=${가리고 싶은 언어}" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>

@@ -1,8 +1,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
-
-  ### Hi my name is DoHyeon!👋
-
+  <div align=center><h2>Hi my name is DoHyeon!👋</h2></div>
+<br>
 
 <div align=center><h1>📚 STACKS</h1>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -10,6 +9,7 @@
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 </div>
+
 
 <div align=center>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>

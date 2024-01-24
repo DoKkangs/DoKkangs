@@ -1,7 +1,7 @@
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=Dohyeon%20World!&fontSize=50&animation=twinkling)
   <div align=center>
-   <h1>Hi my name is DoHyeon!👋</h1>
+   <h2>Hi my name is DoHyeon!👋</h2>
   </div>
 <br>
   <div align=center>
@@ -10,7 +10,7 @@
 
   </div>
 
-<div align=center><h2>📚 STACKS</h2>
+<div align=center><h3>📚 STACKS</h3>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">

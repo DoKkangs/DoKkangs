@@ -42,19 +42,15 @@
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+<br>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/DoKkangs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&theme=buefy&hide=HTML" />
-  </a>
-</p>
 <h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
+<div align=center>
   <a href="https://github.com/DoKkangs">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=true&theme=buefy" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&theme=buefy&hide=HTML" />
   </a>
-</p>
+</div>
 
 
 

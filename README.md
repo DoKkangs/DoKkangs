@@ -1,5 +1,5 @@
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:A5FECB&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
 
 <div align=center><h1>📚 STACKS</h1>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 

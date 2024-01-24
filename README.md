@@ -46,7 +46,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/DoKkangs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=vue&hide=HTML" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&theme=buefy&hide=HTML" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>

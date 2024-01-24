@@ -1,9 +1,16 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
-  <div align=center><h2>Hi my name is DoHyeon!👋</h2></div>
+  <div align=center>
+   <h1>Hi my name is DoHyeon!👋</h1>
+  </div>
 <br>
+  <div align=center>
 
-<div align=center><h1>📚 STACKS</h1>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B194FD&title_bg=%2363BDFF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/DoKkangs)
+
+  </div>
+
+<div align=center><h2>📚 STACKS</h2>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">

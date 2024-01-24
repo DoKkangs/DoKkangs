@@ -42,7 +42,7 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/DoKkangs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=true&theme=vue" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=true&theme=buefy" />
   </a>
 </p>
 

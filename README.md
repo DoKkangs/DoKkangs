@@ -2,14 +2,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
 
 
-<div align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoKkangs&count_bg=%23AEF5A9&title_bg=%232CD953&icon=github.svg&icon_color=%23FFFFFE&title=hits&edge_flat=false)](https://github.com/DoKkangs)
-  
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoKkangs&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&theme=vue)
-  
-</div>
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/DoKkangs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=vue&hide=${가리고 싶은 언어}" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/DoKkangs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=true&theme=vue" />
+  </a>
+</p>
 
 
 

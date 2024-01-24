@@ -1,5 +1,5 @@
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=DoHyeon%20World!&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=DoHyeon%20World!&fontColor=FFFFFF&fontSize=50&animation=twinkling)
   <div align=center>
    <h2>Hi my name is DoHyeon!👋</h2>
   </div>

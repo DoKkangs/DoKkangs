@@ -52,7 +52,7 @@
   </a>
 </div>
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=130&section=footer&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
 
 <!--

@@ -1,5 +1,5 @@
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E55D87,100:5FC3E4&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
 
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>

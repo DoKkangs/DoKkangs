@@ -1,4 +1,5 @@
- 
+ <body bgcolor='white'>
+    
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=DoHyeon%20World!🛫&fontColor=FFFFFF&fontSize=50&animation=twinkling)
   <div align=center>
    <h2>Hi my name is DoHyeon!👋</h2>
@@ -54,6 +55,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=130&section=footer&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
+  </body>
 
 <!--
 **DoKkangs/DoKkangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -53,6 +53,10 @@
     </a>
 </div>
 
+<br>
+
+<br>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F7FF00,100:4CAF50&height=130&section=footer&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
 <!--

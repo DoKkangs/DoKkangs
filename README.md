@@ -55,7 +55,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=130&section=footer&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
-
 <!--
 **DoKkangs/DoKkangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})

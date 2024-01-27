@@ -48,8 +48,8 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <div align=center>
     <a href="https://github.com/DoKkangs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&text_color=FFFFFF&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=true&bg_color=DEG,DAF16A,4CAF50&title_color=FFFFFF" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&text_color=FFFFFF&bg_color=DEG,4CAF50,DAF16A&title_color=FFFFFF&hide=HTML" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&text_color=F6F8FA&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=true&bg_color=DEG,CCEA71,4CAF50&title_color=F6F8FA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&text_color=F6F8FA&bg_color=DEG,4CAF50,CCEA71&title_color=F6F8FA&hide=HTML" />
     </a>
 </div>
 

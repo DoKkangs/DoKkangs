@@ -1,7 +1,7 @@
-<body bgcolor='white'>
-    
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=DoHyeon%20World!🛫&fontColor=FFFFFF&fontSize=50&animation=twinkling)
-    <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=200&section=header&text=DoHyeon%20World!🛫&fontColor=FFFFFF&fontSize=50&animation=twinkling)  
+
+<div align=center>
     <h2>Hi my name is DoHyeon!👋</h2>
     </div>
 <br>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </div>
-     
+
 <div align=center>
     <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
@@ -54,7 +54,8 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:5433FF&height=130&section=footer&fontColor=FFFFFF&fontSize=50&animation=twinkling)
-</body>
+
+
 
 <!--
 **DoKkangs/DoKkangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

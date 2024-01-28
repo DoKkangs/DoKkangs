@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7FF00,100:4CAF50&height=200&section=header&text=DoHyeon%20World!🛫&fontColor=FFFFFF&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:035683,50:9AD5E0,100:216C87&height=200&section=header&text=DoHyeon%20World!🛫&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
 <div align=center>
     <h2>Hi my name is DoHyeon!👋</h2>
@@ -48,8 +48,8 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <div align=center>
     <a href="https://github.com/DoKkangs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&text_color=F6F8FA&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=true&bg_color=DEG,CCEA71,4CAF50&title_color=F6F8FA" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&text_color=F6F8FA&bg_color=DEG,4CAF50,CCEA71&title_color=F6F8FA&hide=HTML" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoKkangs&text_color=F6F8FA&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=true&bg_color=DEG,75A7BF,9AD5E0,7DACBC&title_color=F6F8FA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoKkangs&layout=compact&text_color=F6F8FA&bg_color=DEG,75A7BF,9AD5E0,7DACBC&title_color=F6F8FA&hide=HTML" />
     </a>
 </div>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F7FF00,100:4CAF50&height=130&section=footer&fontColor=FFFFFF&fontSize=50&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:035683,50:9AD5E0,100:216C87&height=130&section=footer&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
 <!--
 **DoKkangs/DoKkangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
